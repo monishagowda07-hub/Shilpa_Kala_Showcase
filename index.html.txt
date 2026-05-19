@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shilpa-Kala Showcase</title>
+</head>
+<body style="font-family:Arial; text-align:center; padding:40px;">
+    <h1>Shilpa-Kala Showcase App</h1>
+    <p>A digital art gallery application developed using Kotlin and Jetpack Compose.</p>
+
+    <h2>Features</h2>
+    <ul style="list-style:none;">
+        <li>Artwork Gallery</li>
+        <li>Search Functionality</li>
+        <li>Modern UI Design</li>
+        <li>Responsive Layout</li>
+    </ul>
+
+    <h2>Project Objective</h2>
+    <p>
+        To create a digital platform for displaying and exploring artworks
+        in an interactive and user-friendly way.
+    </p>
+</body>
+</html>
